@@ -1,0 +1,14 @@
+{
+    "name": "Breathe",
+    "version": "1.0",
+    "manifest_version": 2,
+
+    "description": "",
+    "icons": {
+        "128": "breathe.png"
+    },
+
+    "chrome_url_overrides": {
+        "newtab": "breathe.html"
+    }
+} 
